@@ -60,7 +60,7 @@
     "@types/node": "^13.7.6",
     "@types/power-assert": "^1.5.3",
     "coveralls": "^3.0.9",
-    "cross-env": "^7.0.0",
+    "cross-env": "^7.0.2",
     "mocha": "^7.1.0",
     "nyc": "^15.0.0",
     "power-assert": "^1.6.1",
